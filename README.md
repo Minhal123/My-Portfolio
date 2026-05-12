@@ -13,5 +13,5 @@ A command-line interface (CLI) tool designed for students at the University of K
 - **Libraries:** `os`, `json`
 
 ## 🚀 How to Run
-1. Clone the repository: `git clone https://github.com/YOUR_USERNAME/UBIT-GPA-Manager.git`
+1. Clone the repository: `git clone https://github.com/Minhal123/UBIT-GPA-Manager.git`
 2. Run the script: `python gpa_manager.py`
